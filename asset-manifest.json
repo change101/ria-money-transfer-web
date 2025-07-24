@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ria-money-transfer-web/static/css/main.551816ac.css",
-    "main.js": "/ria-money-transfer-web/static/js/main.a8d437f4.js",
+    "main.js": "/ria-money-transfer-web/static/js/main.75f81eb7.js",
     "index.html": "/ria-money-transfer-web/index.html",
     "main.551816ac.css.map": "/ria-money-transfer-web/static/css/main.551816ac.css.map",
-    "main.a8d437f4.js.map": "/ria-money-transfer-web/static/js/main.a8d437f4.js.map"
+    "main.75f81eb7.js.map": "/ria-money-transfer-web/static/js/main.75f81eb7.js.map"
   },
   "entrypoints": [
     "static/css/main.551816ac.css",
-    "static/js/main.a8d437f4.js"
+    "static/js/main.75f81eb7.js"
   ]
 }
