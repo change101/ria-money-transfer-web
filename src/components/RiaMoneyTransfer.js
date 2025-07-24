@@ -558,11 +558,11 @@ const RiaMoneyTransfer = () => {
     birthYear: '',
     
     // Address info
-    address: '355 N Logan St',
+    address: '1 Main St',
     aptUnit: '',
-    city: 'Denver',
-    state: 'Colorado',
-    zipCode: '80521',
+    city: 'Los Angeles',
+    state: 'California',
+    zipCode: '96200',
     country: 'United States',
     
     // Transfer details (from URL)
@@ -587,7 +587,7 @@ const RiaMoneyTransfer = () => {
     cardNumber: '',
     expirationDate: '',
     securityCode: '',
-    billingAddress: '2450 S University Blvd\nDenver, CO 80521'
+    billingAddress: '1 Main St, Los Angeles, CA 96200'
   });
 
   const [errors, setErrors] = useState({});
