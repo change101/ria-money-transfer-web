@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ria-money-transfer-web/static/css/main.551816ac.css",
+    "main.js": "/ria-money-transfer-web/static/js/main.e9d25446.js",
+    "index.html": "/ria-money-transfer-web/index.html",
+    "main.551816ac.css.map": "/ria-money-transfer-web/static/css/main.551816ac.css.map",
+    "main.e9d25446.js.map": "/ria-money-transfer-web/static/js/main.e9d25446.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.551816ac.css",
+    "static/js/main.e9d25446.js"
+  ]
+}
